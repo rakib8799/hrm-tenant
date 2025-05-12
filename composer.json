@@ -10,7 +10,8 @@
         "laravel/framework": "^11.15.0",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9.0",
-        "sentry/sentry-laravel": "^4.8"
+        "sentry/sentry-laravel": "^4.8",
+        "spatie/laravel-backup": "^9.3"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23.1",
