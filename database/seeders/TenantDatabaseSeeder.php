@@ -17,8 +17,8 @@ class TenantDatabaseSeeder extends Seeder
             [
                 'id' => 1,
                 'tenant_id' => 1,
-                'db_name' => 'hrm_company_admin',
-                'db_username' => 'hrm_company_admin_user',
+                'db_name' => 'admin_hrm',
+                'db_username' => 'admin_hrm_user',
                 'db_password' => 'Admin123@',
                 'db_host' => env('DB_HOST', '127.0.0.1'),
                 'db_port' => '3306',
